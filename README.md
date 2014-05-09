@@ -1,4 +1,4 @@
-crystal test
+ajax test
 ===========
 
 ## To run:
